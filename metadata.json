@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LabelLens - Ingredient Decoder",
+  "description": "Scan food labels or paste text to detect allergens, non-vegan ingredients, and explain technical chemical terms instantly using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
